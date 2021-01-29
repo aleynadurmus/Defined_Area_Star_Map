@@ -5,3 +5,4 @@ Firstly, the point found on the star map drawn, then to find the cropped and rot
 
 
 ![GitHub Logo](https://github.com/aleynadurmus/Defined_Area_Star_Map/blob/main/matching_fields/Figure_1.png)
+
