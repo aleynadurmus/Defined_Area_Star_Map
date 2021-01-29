@@ -40,7 +40,7 @@ for meth in methods:
     plt.subplot(223),plt.imshow(img,cmap = 'gray')
     plt.title('Detected Star Map'), plt.xticks([]), plt.yticks([])
     plt.subplot(222), plt.imshow(res1, cmap='gray')
-    plt.title('Matching Small area '), plt.xticks([]), plt.yticks([])
+    plt.title('Matching Small area cropped '), plt.xticks([]), plt.yticks([])
     plt.subplot(221), plt.imshow(img1, cmap='gray')
     plt.title('Detected Star Map'), plt.xticks([]), plt.yticks([])
     plt.plot(meth)
