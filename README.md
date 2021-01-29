@@ -1,0 +1,1 @@
+The algorithm proceeds through the opencv commands,	Programming language is Python. The larger one is a Star Map, the smaller ones are pictures cropped from the Star Chart. One of the smaller ones matches the Star Map horizontally and vertically, and the other is rotated. 
